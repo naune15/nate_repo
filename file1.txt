@@ -1,2 +1,3 @@
 Commit practice and GIT refresher. Geohackweek adventures!
 This is where day 2 code would go.
+coffee delicious
